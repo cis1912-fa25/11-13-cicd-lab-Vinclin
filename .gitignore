@@ -31,3 +31,7 @@ htmlcov/
 
 # macOS
 .DS_Store
+
+
+#Ignore insiders AI rules
+.github/instructions/codacy.instructions.md
